@@ -1,0 +1,29 @@
+{
+  "name": "kocadag80",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ahmet": "echo 'Benim adım Ahmet'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Ahmet Kocadağ",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.4",
+    "nodemailer": "^6.7.2",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kocadag80/kocadag-80.git"
+  }
+}
